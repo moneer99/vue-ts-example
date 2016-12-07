@@ -1,6 +1,7 @@
 declare var require: any
 
 import Vue = require('vue')
+
 var App = require('./app.vue').default
 
 new Vue({
